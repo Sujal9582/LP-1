@@ -1,0 +1,35 @@
+1)Requirement Analysis
+-Gather Stakeholder Requirements
+-Define Functional Requirements
+-Define Non-Functional Requirements
+-Create Requirement Specification
+
+2)System Design
+-Architectural Design
+-Database Design
+-Interface Design
+-Create Design Documentation
+
+3)Implementation
+-Set Up Development Environment
+-Develop Core Features 
+-Implement User Interface
+-Integrate Components
+
+4)Testing and Quality Assurance
+-Unit Testing
+-Integration Testing
+-System Testing 
+-Bug Testing
+
+5)Deployment
+-Prepare Deployment Environment
+-Deploy Code to Production
+-Perform Final Testing in Production
+-Monitor Post-Deployment
+
+6)Maintainence and Updates
+-Monitor Application Performance
+-Apply Patches and Bug Fixes
+-Feature Enhancements
+-Documentation Updates 
